@@ -1,0 +1,32 @@
+Starting keylogger detection...
+
+No suspicious processes detected.
+[!] Keyboard hook detected: 1074332681
+[!] High resource usage detected in process: Registry (PID: 184)
+[!] High resource usage detected in process: SearchIndexer.exe (PID: 1456)
+[!] High resource usage detected in process: MemCompression (PID: 3444)
+[!] High resource usage detected in process: TextInputHost.exe (PID: 4296)
+[!] High resource usage detected in process: WmiPrvSE.exe (PID: 4860)
+[!] High resource usage detected in process: chrome.exe (PID: 5156)
+[!] High resource usage detected in process: svchost.exe (PID: 5216)
+[!] High resource usage detected in process: PhoneExperienceHost.exe (PID: 6212)
+[!] High resource usage detected in process: MsMpEng.exe (PID: 7220)
+[!] High resource usage detected in process: sqlservr.exe (PID: 7500)
+[!] High resource usage detected in process: oracle.exe (PID: 7544)
+[!] High resource usage detected in process: svchost.exe (PID: 12484)
+[!] High resource usage detected in process: explorer.exe (PID: 23412)
+[!] High resource usage detected in process: ShellExperienceHost.exe (PID: 28488)
+[!] High resource usage detected in process: chrome.exe (PID: 28868)
+[!] High resource usage detected in process: chrome.exe (PID: 30592)
+[!] High resource usage detected in process: dwm.exe (PID: 31664)
+[!] High resource usage detected in process: DismHost.exe (PID: 32024)
+[!] High resource usage detected in process: chrome.exe (PID: 32352)
+[!] High resource usage detected in process: WindowsTerminal.exe (PID: 46968)
+[!] Suspicious file detected: C:\Users\HP\AppData\Roaming\Microsoft\Windows\Recent\detect_keylog.py.lnk
+[!] Suspicious file detected: C:\Users\HP\AppData\Roaming\Microsoft\Windows\Recent\keylogDetecter.py.lnk
+[!] Suspicious file detected: C:\Users\HP\AppData\Roaming\Microsoft\Windows\Recent\keylogger_detection_log.txt.lnk
+[!] Suspicious file detected: C:\Users\HP\AppData\Roaming\Microsoft\Windows\Recent\key_log.txt.lnk
+[!] Suspicious file detected: C:\Users\HP\AppData\Roaming\Microsoft\Windows\Recent\suspect_keylogg.py.lnk
+No suspicious network activity detected.
+
+Keylogger detection completed.
